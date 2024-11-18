@@ -2,7 +2,7 @@
 **yiy159@ucsd.edu**\
 **Section: B01**\
 **Mentor Name: Dr. Ali Arsanjani**
----
+
 **1. What is the most interesting topic covered in your domain this quarter?**\
 The most interesting topic covered in my domain this quarter was the application of Chain-of-Thought (CoT) prompting combined with function calling to enhance the accuracy of large language model (LLM) outputs. This approach allowed for a more structured and iterative analysis process, revealing its potential for improving misinformation detection and analysis. The integration of predictive models with generative AI outputs further highlighted the versatility of these techniques in solving real-world challenges.
 
