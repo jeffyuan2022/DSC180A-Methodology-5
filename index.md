@@ -1,5 +1,3 @@
-# DSC180A-Methodology-5
-
 **Yiheng Yuan**\
 **yiy159@ucsd.edu**\
 **Section: B01**\
